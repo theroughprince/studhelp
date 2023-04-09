@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/studhelp/static/css/main.013f3cbc.css",
+    "main.js": "/studhelp/static/js/main.ffb5d08b.js",
+    "static/js/787.4da146e6.chunk.js": "/studhelp/static/js/787.4da146e6.chunk.js",
+    "static/media/BLOG3.jpg": "/studhelp/static/media/BLOG3.11f597dcf4e99a27a00b.jpg",
+    "static/media/BLOG2.jpg": "/studhelp/static/media/BLOG2.8480b5ec4cbd732fdbbe.jpg",
+    "static/media/BLOG1.jpg": "/studhelp/static/media/BLOG1.e515cb025aada95bb7d0.jpg",
+    "index.html": "/studhelp/index.html",
+    "main.013f3cbc.css.map": "/studhelp/static/css/main.013f3cbc.css.map",
+    "main.ffb5d08b.js.map": "/studhelp/static/js/main.ffb5d08b.js.map",
+    "787.4da146e6.chunk.js.map": "/studhelp/static/js/787.4da146e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.013f3cbc.css",
+    "static/js/main.ffb5d08b.js"
+  ]
+}
