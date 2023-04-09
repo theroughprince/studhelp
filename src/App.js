@@ -12,10 +12,10 @@ function App() {
     <switch>
     <Routes>
       
-    <Route path="/" Component={Home}></Route>
-    <Route path="/blog" Component={Blog}></Route>
-    <Route path="/Contact" Component={Contact}></Route>
-    <Route path="/Team" Component={Team}></Route>
+    <Route path="/studhelp/" Component={Home}></Route>
+    <Route path="/studhelp/blog" Component={Blog}></Route>
+    <Route path="/studhelp/Contact" Component={Contact}></Route>
+    <Route path="/studhelp/Team" Component={Team}></Route>
     </Routes>
     </switch>
     </>
