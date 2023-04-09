@@ -1,0 +1,40 @@
+{
+    "Blog": [
+        {
+            "title": "Focus On Your Self Improvement Journey Now",
+            "link": "/blog1",
+            "Desc": "Self-improvement refers to the process of making positive changes in oneself. It involves actively working on one's physical, emotional, and mental well-being to become a better person. Self-improvement can encompass a wide range of activities, such as developing new skills, improving relationships, learning new things, and adopting healthier habits.",
+            "img": "http://localhost:3000/static/media/BLOG1.e515cb025aada95bb7d0.jpg"
+        },
+        {
+            "title": "How to Start Practicing Self-Care",
+            "link": "/blog2",
+            "Desc": "Self-care is an essential aspect of maintaining physical and mental well-being. It is a term that encompasses various activities and practices that help individuals take care of themselves. Practicing self-care is especially important in today's fast-paced and often stressful world. Here are some ways to practice self-care.",
+            "img": "http://localhost:3000/static/media/BLOG2.8480b5ec4cbd732fdbbe.jpg"
+        },
+        {
+            "title": "How to Build good Relationships as student",
+            "link": "/blog3",
+            "Desc": "As a student, building relationships can have a significant impact on your personal and professional growth. Building relationships can help you expand your network, gain new insights, and open up new opportunities. In this article, we'll explore some tips on how to build relationships as a student.",
+            "img": "http://localhost:3000/static/media/BLOG3.11f597dcf4e99a27a00b.jpg"
+        },
+        {
+            "title": "How to Give Good Presentation in College",
+            "link": "/blog4",
+            "Desc": "As a college student, you will most likely have to give presentations at some point during your academic career. Presentations are an excellent way to communicate your ideas, showcase your knowledge and skills, and demonstrate your ability to speak in public.",
+            "img": "https://www.hindustantimes.com/ht-img/img/2023/03/22/550x309/Pakistan-Earthquake-0_1679449860786_1679449860786_1679449880018_1679449880018.jpg"
+        },
+        {
+            "title": "Complete Your Syllabus One Day Before Exams",
+            "link": "/blog5",
+            "Desc": " Completing your syllabus one day before an exam may seem like a daunting task, but it is certainly possible with the right approach and mindset. Here are some tips to help you complete your syllabus and be fully prepared for your exam.",
+            "img": "https://v1.tailwindcss.com/img/card-top.jpg"
+        },
+        {
+            "title": "Top 10 - High Paying Jobs for Computer Engineers",
+            "link": "/blog6",
+            "Desc": "From March quarter onwards, Gold programme expected to cause a negative impact to Zomato unit economics in the range of Rs 10-12 per order which could concern investors, say HSBC analysts",
+            "img": "https://v1.tailwindcss.com/img/card-top.jpg"
+        }
+    ]
+}
